@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Count</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <style name="btn1">
+        <item name="android:layout_width">60dp</item>
+        <item name="android:layout_height">50dp</item>
+        <item name="android:textSize">20sp</item>
+        <item name="android:gravity">center_horizontal</item>
+    </style>
+
+    <style name="btn2">
+        <item name="android:layout_width">120dp</item>
+        <item name="android:layout_height">50dp</item>
+        <item name="android:textSize">20sp</item>
+        <item name="android:gravity">center_horizontal</item>
+    </style>
+
+    <style name="btn3">
+        <item name="android:layout_width">60dp</item>
+        <item name="android:layout_height">100dp</item>
+        <item name="android:textSize">20sp</item>
+        <item name="android:gravity">center_horizontal</item>
+    </style>
+</resources>
